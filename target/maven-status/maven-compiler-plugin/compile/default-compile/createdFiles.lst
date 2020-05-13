@@ -1,0 +1,16 @@
+com\userregistration\config\MyWebAppInitializer.class
+com\userregistration\model\Admin.class
+com\userregistration\config\WebConfig.class
+com\userregistration\service\LoginServiceImpl.class
+com\userregistration\config\AppConfig.class
+com\userregistration\controller\UserController.class
+com\userregistration\dao\LoginRepositoryImpl.class
+com\userregistration\service\UserService.class
+com\userregistration\dao\LoginRepository.class
+com\userregistration\exception\UserDoesNotExistException.class
+com\userregistration\dao\UserDao.class
+com\userregistration\exception\UserAlreadyExistException.class
+com\userregistration\dao\UserDaoImp.class
+com\userregistration\model\User.class
+com\userregistration\service\LoginService.class
+com\userregistration\service\UserServiceImpl.class
